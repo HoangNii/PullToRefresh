@@ -75,7 +75,7 @@ public class HeadRefreshView extends FrameLayout implements HeadView {
     public void normal() {
         arrow.setVisibility(VISIBLE);
         progressBar.setVisibility(GONE);
-        tv.setText("Xong");
+        tv.setText("Hủy bỏ");
     }
 
     @Override
