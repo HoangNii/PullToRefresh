@@ -1,0 +1,7 @@
+<resources>
+
+    <string name="net_error">Mạng không được kết nối</string>
+    <string name="error">Mạng thiết bị của bạn không ổn định \ n Vui lòng kiểm tra và nhấp vào biểu tượng để thử lại</string>
+    <string name="empty">Chưa có dữ liệu</string>
+    <string name="loading">Đang tải ...</string>
+</resources>
